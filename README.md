@@ -1,4 +1,4 @@
 # Nandu
 This is my first Repository
 <br>
-Auther-Nandu Rajput
+Auther-Nandu Rajput(Jai Hanuman)
